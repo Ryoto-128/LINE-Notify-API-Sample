@@ -1,1 +1,1 @@
-# LINE-Notify-API
+# LINE-Notify-API-Sample
